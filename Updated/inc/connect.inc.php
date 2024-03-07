@@ -9,17 +9,19 @@ $username = "root";
 $password = "";
 $database = "grocery";
 
-// Création de la connexion
-$con = new mysqli($servername, $username, $password, $database);
+// // Création de la connexion
+// $con = new mysqli($servername, $username, $password, $database);
 
-// Vérifier la connexion
-if ($con->connect_error) {
-    die("La connexion a échoué : " . $con->connect_error);
-} 
-echo "Connexion réussie";
+// // Vérifier la connexion
+// if ($con->connect_error) {
+//     die("La connexion a échoué : " . $con->connect_error);
+// } 
+// echo "Connexion réussie";
 
 // Vous pouvez utiliser $conn pour exécuter vos requêtes SQL
 
 // Fermer la connexion
-$con->close();
+// $con->close();
+mysqli_connect($servername, $username, $password, $database);
+
 ?>
