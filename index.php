@@ -32,6 +32,16 @@ else {
 		<!-- End Google Tag Manager -->
 
 		<script src="/js/homeslideshow.js"></script>
+
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-7LY59282RY"></script>
+		<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-7LY59282RY');
+		</script>
 		
 	</head>
 
