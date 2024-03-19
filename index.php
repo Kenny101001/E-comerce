@@ -68,7 +68,7 @@ else {
 			</div>
 			<div style="float: left; margin: 5px 0px 0px 23px;">
 				<a href="index.php">
-					<img style=" height: 75px; width: 130px;" src="image/cart.png">
+					<img style=" height: 75px; width: 130px;" src="image/cart.png" alt="Cart">
 				</a>
 			</div>
 			<div class="">
