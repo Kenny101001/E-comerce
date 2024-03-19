@@ -21,6 +21,16 @@ else {
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 		<script src="/js/homeslideshow.js"></script>
 	</head>
+	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-XTKC7XY0W4"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-XTKC7XY0W4');
+	</script>
+
 	<body style="min-width: 980px;">
 		<div class="homepageheader" style="position: relative;">
 			<div class="signinButton loginButton">

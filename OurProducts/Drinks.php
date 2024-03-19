@@ -20,6 +20,16 @@ else {
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XTKC7XY0W4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-XTKC7XY0W4');
+</script>
+
 <body>
 	<?php include ( "../inc/mainheader.inc.php" ); ?>
 	<div class="categolis">
