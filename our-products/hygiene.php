@@ -16,7 +16,7 @@ else {
 <!DOCTYPE html>
 <html>
 <head>
-	<title><strong>Hygiene</strong></title>
+	<title>Hygiene</title>
 	<link rel="stylesheet" type="text/css" href="../css/style.css">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -64,7 +64,7 @@ else {
 		</table>
 	</div>
 	<div>
-		<h1>Hygiene</h1>
+		<h1><strong>Hygiene</strong></h1>
 	</div>
 	<div style="padding: 15px 0px; font-size: 15px; margin: 0 auto; display: table; width: 98%;">
 		<div>
