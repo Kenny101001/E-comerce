@@ -20,6 +20,9 @@ else {
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 		<script src="/js/homeslideshow.js"></script>
+		<meta name="description" content="Bienvenue chez nita's online grocery, votre magasin de produits alimentaires et autres nécessités à 7ème avenue, Caloocan.">
+		<meta name="keywords" content="nita's online grocery, produits alimentaires, Caloocan, magasin en ligne">
+
 	</head>
 	<body style="min-width: 980px;">
 		<div class="homepageheader" style="position: relative;">
@@ -78,7 +81,7 @@ else {
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/NoodlesCanned.php">
-							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi">
+							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi" alt="Noodles">
 							</a>
 						</div>
 					</li>
@@ -86,7 +89,7 @@ else {
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Snacks.php">
-							<img src="./image/product/snack/sn.jpg" class="home-prodlist-imgi">
+							<img src="./image/product/snack/sn.jpg" class="home-prodlist-imgi" alt="Snack">
 							</a>
 						</div>
 					</li>
@@ -94,42 +97,42 @@ else {
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Sweets.php">
-							<img src="./image/product/sweet/s.jpg" class="home-prodlist-imgi"></a>
+							<img src="./image/product/sweet/s.jpg" class="home-prodlist-imgi" alt="Sweet"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Hygene.php">
-							<img src="./image/product/hygiene/hy.jpg" class="home-prodlist-imgi"></a>
+							<img src="./image/product/hygiene/hy.jpg" class="home-prodlist-imgi" alt="Hygiene"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Shampoo.php">
-							<img src="./image/product/shampoo/pall.jpg" class="home-prodlist-imgi"></a>
+							<img src="./image/product/shampoo/pall.jpg" class="home-prodlist-imgi" alt="Shampoo"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Soap&Detergent.php">
-							<img src="./image/product/soap/sp.jpg" class="home-prodlist-imgi"></a>
+							<img src="./image/product/soap/sp.jpg" class="home-prodlist-imgi"  alt="Soap"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Drinks.php">
-							<img src="./image/product/drink/dr.jpg" class="home-prodlist-imgi"></a>
+							<img src="./image/product/drink/dr.jpg" class="home-prodlist-imgi"  alt="Drink"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
 						<div class="home-prodlist-img"><a href="OurProducts/Seasonings.php">
-							<img src="./image/product/seasoning/cond.jpg" class="home-prodlist-imgi"></a>
+							<img src="./image/product/seasoning/cond.jpg" class="home-prodlist-imgi"  alt="Seasoning"></a>
 						</div>
 					</li>
 				</ul>
