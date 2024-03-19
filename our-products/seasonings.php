@@ -48,7 +48,7 @@ else {
 		</table>
 	</div>
 	<div>
-		<h1>Seasonings</h1>
+		<h1><strong>Seasonings</strong></h1>
 	</div>
 	<div style="padding: 15px 0px; font-size: 15px; margin: 0 auto; display: table; width: 98%;">
 		<div>
