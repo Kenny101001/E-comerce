@@ -19,7 +19,7 @@ else {
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta name="description" content="Nita's online grocery">
-		<meta name="keywords" content="nita's online grocery, Caloocan, Grocery, Convenient Grocery">
+		<meta name="keywords" content="Online grocery, Caloocan, Grocery, Convenient Grocery, Products">
 
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
