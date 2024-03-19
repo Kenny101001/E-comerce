@@ -57,10 +57,10 @@ else {
 				<div class="uiloginbutton signinButton loginButton" style="margin-right: 40px;">
 					<?php 
 						if ($user!="") {
-							echo '<a style="text-decoration: none; color: #fff;" href="logout.php">LOG OUT</a>';
+							echo '<a style="text-decoration: none; color: #ffff;" href="logout.php">LOG OUT</a>';
 						}
 						else {
-							echo '<a style="color: #fff; text-decoration: none;" href="signin.php">SIGN UP</a>';
+							echo '<a style="color: #ffff; text-decoration: none;" href="signin.php">SIGN UP</a>';
 						}
 					 ?>
 					
@@ -68,10 +68,10 @@ else {
 				<div class="uiloginbutton signinButton loginButton" style="">
 					<?php 
 						if ($user!="") {
-							echo '<a style="text-decoration: none; color: #fff;" href="profile.php?uid='.$user.'">Hi '.$uname_db.'</a>';
+							echo '<a style="text-decoration: none; color: #ffff;" href="profile.php?uid='.$user.'">Hi '.$uname_db.'</a>';
 						}
 						else {
-							echo '<a style="text-decoration: none; color: #fff;" href="login.php">LOG IN</a>';
+							echo '<a style="text-decoration: none; color: #ffff;" href="login.php">LOG IN</a>';
 						}
 					 ?>
 				</div>
