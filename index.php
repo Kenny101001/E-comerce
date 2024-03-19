@@ -91,9 +91,9 @@ else {
 			</div>
 		</div>
 		<div class="home-welcome">
-			<div class="home-welcome-text" style="background-image: url(image/background.jpg); height: 380px; ">
+			<div class="home-welcome-text" style="background-image: url(image/background.jpg); height: 380px;background-size: cover; background-position: center center; ">
 				<div style="padding-top: 180px;">
-					<div style=" background-color: #dadbe6;">
+					<div style=" background-color: #ffff;">
 						<h1 style="margin: 0px;">Nita's online grocery</h1>
 						<h2>Most Convenient Grocery Store in 7th ave. Caloocan</h2>
 					</div>
