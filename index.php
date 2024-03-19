@@ -109,7 +109,7 @@ else {
 					<li style="float: left; padding: 25px;">
 						<h4>Noodles-Canned</h4>
 						<div class="home-prodlist-img"><a href="our-products/noodles-canned.php">
-							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi" alt="Noodles">
+							<img src="./image/product/noodles/n.jpeg" class="home-prodlist-imgi" alt="Noodles">
 							</a>
 						</div>
 					</li>
