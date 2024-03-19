@@ -107,7 +107,7 @@ else {
 			<div style="padding: 20px 30px; width: 85%; margin: 0 auto;">
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<h4>Noodles-Canned</h4>
+						<h4><strong>Noodles-Canned</strong></h4>
 						<div class="home-prodlist-img"><a href="our-products/noodles-canned.php">
 							<img src="./image/product/noodles/n.jpeg" class="home-prodlist-imgi" alt="Noodles">
 							</a>
@@ -116,7 +116,7 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<h4>Snacks</h4>
+						<h4><strong>Snacks</strong></h4>
 						<div class="home-prodlist-img"><a href="our-products/snacks.php">
 							<img src="./image/product/snack/sn.jpg" class="home-prodlist-imgi" alt="Snack">
 							</a>
