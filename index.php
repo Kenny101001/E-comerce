@@ -97,6 +97,7 @@ else {
 			<div style="padding: 20px 30px; width: 85%; margin: 0 auto;">
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
+						<h4>Noodles-Canned</h4>
 						<div class="home-prodlist-img"><a href="our-products/noodles-canned.php">
 							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi" alt="Noodles">
 							</a>
@@ -105,6 +106,7 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
+						<h4>Snacks</h4>
 						<div class="home-prodlist-img"><a href="our-products/snacks.php">
 							<img src="./image/product/snack/sn.jpg" class="home-prodlist-imgi" alt="Snack">
 							</a>
@@ -113,6 +115,7 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
+						<h4>Sweets</h4>
 						<div class="home-prodlist-img"><a href="our-products/sweets.php">
 							<img src="./image/product/sweet/s.jpg" class="home-prodlist-imgi" alt="Sweet"></a>
 						</div>
@@ -120,13 +123,15 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="our-products/hygene.php">
+						<h4>Hygiene</h4>
+						<div class="home-prodlist-img"><a href="our-products/hygiene.php">
 							<img src="./image/product/hygiene/hy.jpg" class="home-prodlist-imgi" alt="Hygiene"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
+						<h4>Shampoo</h4>
 						<div class="home-prodlist-img"><a href="our-products/shampoo.php">
 							<img src="./image/product/shampoo/pall.jpg" class="home-prodlist-imgi" alt="Shampoo"></a>
 						</div>
@@ -134,6 +139,7 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
+						<h4>Soap-Detergent</h4>
 						<div class="home-prodlist-img"><a href="our-products/soap-detergent.php">
 							<img src="./image/product/soap/sp.jpg" class="home-prodlist-imgi"  alt="Soap"></a>
 						</div>
@@ -141,6 +147,7 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
+						<h4>Drinks</h4>
 						<div class="home-prodlist-img"><a href="our-products/drinks.php">
 							<img src="./image/product/drink/dr.jpg" class="home-prodlist-imgi"  alt="Drink"></a>
 						</div>
@@ -148,6 +155,7 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
+						<h4>Seasonings</h4>
 						<div class="home-prodlist-img"><a href="our-products/seasonings.php">
 							<img src="./image/product/seasoning/cond.jpg" class="home-prodlist-imgi"  alt="Seasoning"></a>
 						</div>
