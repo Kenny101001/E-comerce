@@ -15,14 +15,15 @@ else {
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Welcome to nita's online grocery</title>
+		<title>Nita's online grocery</title>
 		<link rel="stylesheet" type="text/css" href="css/style.css">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Nita's online grocery">
+		<meta name="keywords" content="nita's online grocery, Caloocan, Grocery, Convenient Grocery">
+
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 		<script src="/js/homeslideshow.js"></script>
-		<meta name="description" content="Bienvenue chez nita's online grocery, votre magasin de produits alimentaires et autres nécessités à 7ème avenue, Caloocan.">
-		<meta name="keywords" content="nita's online grocery, produits alimentaires, Caloocan, magasin en ligne">
-
+		
 	</head>
 	
 	<!-- Google Tag Manager -->
@@ -81,20 +82,20 @@ else {
 			<div class="home-welcome-text" style="background-image: url(image/background.jpg); height: 380px; ">
 				<div style="padding-top: 180px;">
 					<div style=" background-color: #dadbe6;">
-						<h1 style="margin: 0px;">Welcome To nita's online grocery</h1>
-						<h2>Most Convenient Store in 7th ave. Caloocan</h2>
+						<h1 style="margin: 0px;">Nita's online grocery</h1>
+						<h2>Most Convenient Grocery Store in 7th ave. Caloocan</h2>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="home-prodlist">
 			<div>
-				<h3 style="text-align: center;">Products Category</h3>
+				<h3 style="text-align: center;">Products Grocery Category</h3>
 			</div>
 			<div style="padding: 20px 30px; width: 85%; margin: 0 auto;">
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/NoodlesCanned.php">
+						<div class="home-prodlist-img"><a href="our-products/noodles-canned.php">
 							<img src="./image/product/noodles/n.jpg" class="home-prodlist-imgi" alt="Noodles">
 							</a>
 						</div>
@@ -102,7 +103,7 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/Snacks.php">
+						<div class="home-prodlist-img"><a href="our-products/snacks.php">
 							<img src="./image/product/snack/sn.jpg" class="home-prodlist-imgi" alt="Snack">
 							</a>
 						</div>
@@ -110,42 +111,42 @@ else {
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/Sweets.php">
+						<div class="home-prodlist-img"><a href="our-products/sweets.php">
 							<img src="./image/product/sweet/s.jpg" class="home-prodlist-imgi" alt="Sweet"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/Hygene.php">
+						<div class="home-prodlist-img"><a href="our-products/hygene.php">
 							<img src="./image/product/hygiene/hy.jpg" class="home-prodlist-imgi" alt="Hygiene"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/Shampoo.php">
+						<div class="home-prodlist-img"><a href="our-products/shampoo.php">
 							<img src="./image/product/shampoo/pall.jpg" class="home-prodlist-imgi" alt="Shampoo"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/Soap&Detergent.php">
+						<div class="home-prodlist-img"><a href="our-products/soap-detergent.php">
 							<img src="./image/product/soap/sp.jpg" class="home-prodlist-imgi"  alt="Soap"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/Drinks.php">
+						<div class="home-prodlist-img"><a href="our-products/drinks.php">
 							<img src="./image/product/drink/dr.jpg" class="home-prodlist-imgi"  alt="Drink"></a>
 						</div>
 					</li>
 				</ul>
 				<ul style="float: left;">
 					<li style="float: left; padding: 25px;">
-						<div class="home-prodlist-img"><a href="OurProducts/Seasonings.php">
+						<div class="home-prodlist-img"><a href="our-products/seasonings.php">
 							<img src="./image/product/seasoning/cond.jpg" class="home-prodlist-imgi"  alt="Seasoning"></a>
 						</div>
 					</li>
